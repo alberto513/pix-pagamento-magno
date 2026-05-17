@@ -12,7 +12,7 @@ Página web simple y responsiva para mostrar un pago vía Pix con QR, datos del 
 - Beneficiario: Magno Alberto Rios
 - Tipo de llave: CPF
 - Llave Pix: `03195790181`
-- Banco: Banco do Brasil (001)
+- Banco: PicPay
 - Ciudad: São Paulo - SP
 
 ## Publicar en GitHub Pages
